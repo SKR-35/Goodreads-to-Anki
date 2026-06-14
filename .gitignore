@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+
+# Generated output
+*.apkg
+gr_covers_*/
+covers/
+
+# Your private data — never commit your exported library
+goodreads_library_export*.csv
+
+.pytest_cache/
+.coverage
