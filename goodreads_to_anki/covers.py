@@ -13,7 +13,7 @@ from typing import Iterable, List, Optional, Union
 
 import requests
 
-_HEADERS = {"User-Agent": "goodreads-to-anki/0.1 (+https://github.com/)"}
+_HEADERS = {"User-Agent": "goodreads-to-anki/1.0 (+https://github.com/SKR-35/Goodreads-to-Anki)"}
 
 
 def download_covers(

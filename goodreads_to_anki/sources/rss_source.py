@@ -21,7 +21,7 @@ from ..models import Book
 from .base import BookSource
 
 _FEED_URL = "https://www.goodreads.com/review/list_rss/{user_id}"
-_DEFAULT_HEADERS = {"User-Agent": "goodreads-to-anki/0.1 (+https://github.com/)"}
+_DEFAULT_HEADERS = {"User-Agent": "goodreads-to-anki/1.0 (+https://github.com/SKR-35/Goodreads-to-Anki)"}
 _MAX_PAGES = 100  # safety guard against infinite loops
 
 
