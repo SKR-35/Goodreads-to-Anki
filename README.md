@@ -20,7 +20,7 @@ source later (a scraper, OpenLibrary, etc.) only means writing one new class.
 ## Install
 
 ```bash
-git clone <your-repo-url> goodreads-to-anki
+git clone SKR-35/Goodreads-to-Anki
 cd goodreads-to-anki
 pip install -e .
 ```
